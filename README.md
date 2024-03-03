@@ -15,7 +15,7 @@ Introducing an AI-based recommendation system that guides students toward the mo
 
 ## System Structure
 <p align="center">
-<img src="/Images/Diagram.JPG" width="500">
+<img src="/Images/Diagram.png" width="500">
 </p>
 
 ### Main Components
