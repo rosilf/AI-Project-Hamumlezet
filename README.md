@@ -1,7 +1,7 @@
 # AI-Project-Hamumlezet
 Personalized course planning system. Helping students to reach graduation as efficiently as possible 
 <p align="center">
-<img src="Hamumlezet - Logo.png" width="250">
+<img src="/Images/Logo.png" width="250">
 </p>
 
 ## Introduction
@@ -15,7 +15,7 @@ Introducing an AI-based recommendation system that guides students toward the mo
 
 ## System Structure
 <p align="center">
-<img src="Diagram.JPG" width="500">
+<img src="/Images/Diagram.JPG" width="500">
 </p>
 
 ### Main Components
@@ -33,5 +33,4 @@ Introducing an AI-based recommendation system that guides students toward the mo
 The system is implemented in Python, leveraging the following libraries:
 - **Beautiful Soup:** Extracts data from HTML and XML files.
 - **Networkx:** Manages graph structures for efficient handling of course relationships.
-- *(Other relevant libraries mentioned)*
 
