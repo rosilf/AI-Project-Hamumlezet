@@ -33,4 +33,5 @@ Introducing an AI-based recommendation system that guides students toward the mo
 The system is implemented in Python, leveraging the following libraries:
 - **Beautiful Soup:** Extracts data from HTML and XML files.
 - **Networkx:** Manages graph structures for efficient handling of course relationships.
+- **Pandas, Matplotlib, Seaborn:** Experiments analysis and visualizations
 
